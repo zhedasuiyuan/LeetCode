@@ -63,7 +63,7 @@ public class MaxPoints {
     
     public static void main(String[] args){
     	Point[] points=new Point[9];
-    //	test case points [(84,250),(0,0),(1,0),(0,-70),(0,-70),(1,-1),(21,10),(42,90),(-42,-230)]
+    //	test case [(84,250),(0,0),(1,0),(0,-70),(0,-70),(1,-1),(21,10),(42,90),(-42,-230)]
     	points[0]=new Point(84,250);
     	points[1]=new Point(0,0);
     	points[2]=new Point(1,0);
